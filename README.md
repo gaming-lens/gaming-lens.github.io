@@ -1,2 +1,2 @@
-# gaming-lens.github.io
+# GamingLens
 Landing page of 'GamingLens'
